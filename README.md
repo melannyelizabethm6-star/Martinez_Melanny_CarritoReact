@@ -19,8 +19,8 @@ Instructor: Daniel Alfonso Martínez Payán
 Requisitos: Node.js 18 o superior.
 
 ```bash
-git clone https://github.com/TU_USUARIO/Apellido_Nombre_CarritoReact.git
-cd Apellido_Nombre_CarritoReact
+git clone https://github.com/melannyelizabethm6-star/Martinez_Melanny_CarritoReact.git
+cd Martinez_Melanny_CarritoReact
 npm install
 npm run dev        # abre http://localhost:5173
 ```
@@ -111,7 +111,7 @@ git init
 git add .
 git commit -m "Carrito de compras React — TIENDA PALMIRA"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/Apellido_Nombre_CarritoReact.git
+git remote add origin https://github.com/melannyelizabethm6-star/Martinez_Melanny_CarritoReact.git
 git push -u origin main
 ```
 
