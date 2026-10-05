@@ -4,7 +4,7 @@ import { useCart } from '../hooks/useCart';
 import { formatCurrency } from '../utils/formatCurrency';
 
 // Emoji decorativo por producto (el array del catálogo se mantiene exacto)
-const EMOJIS = { 1: '☕', 2: '🍯', 3: '🫓', 4: '🍫', 5: '🍬', 6: '🥃' };
+const EMOJIS = { 1: '☕', 2: '🍯', 3: '🌽', 4: '🍫', 5: '🍬', 6: '🥃' };
 
 function ProductCard({ producto }) {
   const { getInCart, addToCart, notifyMax, notifyMinCatalog, notifyInvalidInput } = useCart();

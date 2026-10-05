@@ -9,7 +9,7 @@ Instructor: Daniel Alfonso Martínez Payán
 | **Aprendiz** | [Melanny Elizabeth Martinez Delgado] |
 | **Ficha** | [3409924] |
 | **Tecnología usada** | ☑ React 18 + Vite · JavaScript (ES2022) · CSS puro |
-| **Repositorio público** | [ENLACE AL REPOSITORIO: https://github.com/TU_USUARIO/Apellido_Nombre_CarritoReact] |
+| **Repositorio público** | [ENLACE AL REPOSITORIO: https://github.com/melannyelizabethm6-star/Martinez_Melanny_CarritoReact.git] |
 | **Despliegue (opcional)** | [ENLACE] |
 
 ---
